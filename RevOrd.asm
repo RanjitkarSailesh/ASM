@@ -1,9 +1,4 @@
 ;-------------------------------------------------------------------------------
-; Name:        [Sailesh Ranjitkar]
-; Course:      [CSC2025, X00], [Computer Arch/Assembly]
-; Program:     Reverse String Copy
-; Date:        [9/20/2024]
-;
 ; Description:
 ; Reverses the element of an array
 ;-------------------------------------------------------------------------------
