@@ -1,9 +1,4 @@
 ;-------------------------------------------------------------------------------
-; Name:        [Sailesh Ranjitkar]
-; Course:      [CSC2025, X00], [Computer Arch/Assembly]
-; Program:     Calculate Gaps In Array
-; Date:        [9/20/2024]
-;
 ; Description:
 ; Calculates the sum of the gaps between each element in the array
 ;-------------------------------------------------------------------------------
