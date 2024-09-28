@@ -1,9 +1,4 @@
 ;-------------------------------------------------------------------------------
-; Name:        [Sailesh Ranjitkar]
-; Course:      [CSC2025, X00], [Computer Arch/Assembly]
-; Program:     Arithmetic Operations using Assembly
-; Date:        [9/13/2024]
-;
 ; Description:
 ; This program show simple arithmetic operations in assembly
 ; The result of (varA + varB) - (varC + varD) is stored in the 'Result' variable and the program exits with this result as the exit code.
@@ -27,7 +22,7 @@
 ; Description:
 ; The following procedure takes in varA and varB, then adds the two and stores the result in EAX,  
 ; then it takes in varC and varD and adds the two. keeping that result in EBX
-; Then it subtract the result from (varC + varD) from (varA + varB) then saves the result in ‘Result’ variable before the program ends.
+; Then it subtract the result from (varC + varD) from (varA + varB) then saves the result in â€˜Resultâ€™ variable before the program ends.
 ;-------------------------------------------------------------------------------
     .code           ; Code section for the program logic
     main proc
