@@ -1,12 +1,7 @@
 ;-------------------------------------------------------------------------------
-; Name:        [Sailesh Ranjitkar]
-; Course:      [CSC2025, X00], [Computer Arch/Assembly]
-; Program:     Fibonacci number generator
-; Date:        [9/13/2024]
-;
 ; Description:
-; This program generates and saves first 26 Fibonacci’s number in the memory.
-; The Fibonacci numbers are to be stored in the ‘FibNumbers’ array and this program employs a loop to get the next Fibonacci number using the sum of the two previous numbers
+; This program generates and saves first 26 Fibonacciâ€™s number in the memory.
+; The Fibonacci numbers are to be stored in the â€˜FibNumbersâ€™ array and this program employs a loop to get the next Fibonacci number using the sum of the two previous numbers
 ;-------------------------------------------------------------------------------
 .386
 .model flat, stdcall
