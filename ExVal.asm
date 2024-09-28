@@ -1,9 +1,4 @@
 ;-------------------------------------------------------------------------------
-; Name:        [Sailesh Ranjitkar]
-; Course:      [CSC2025, X00], [Computer Arch/Assembly]
-; Program:     Swap Each Pair of an Array
-; Date:        [9/20/2024]
-;
 ; Description:
 ; Swap Adjacent Elements of Array in pairs of two
 ;-------------------------------------------------------------------------------
